@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gentil-congregations no tithe-payers. Or, certain reasons wherein is clearly shewed, what just ground there is for gentiles conscientiously to make question of the lawfulness of their paying tithes as they were presented unto the right worshipful John Brandlin, and Thomas Edgar esquires, justices of the peace for the worshipful committee, then sitting at the Grey-hound in Ipswich, By William Westup and Thomas Puckle.</title>
+            <author>Westup, William.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96257</idno><idno type="EEBO-CITATION">99865622_165811</idno>
+  <idno type="VID">165811</idno>
+  <idno type="EEBO-PROQUEST">2248495941</idno>
+  
+            <idno type="STC">Wing W1485</idno>
+            <idno type="STC">Thomason E615_5</idno>
+            <idno type="STC">Thomason E625_5</idno>
+            <idno type="STC">ESTC R206465</idno>
+            <idno type="PROQUEST">99865622</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865622e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165811)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E615[5], 96:E625[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gentil-congregations no tithe-payers. Or, certain reasons wherein is clearly shewed, what just ground there is for gentiles conscientiously to make question of the lawfulness of their paying tithes as they were presented unto the right worshipful John Brandlin, and Thomas Edgar esquires, justices of the peace for the worshipful committee, then sitting at the Grey-hound in Ipswich, By William Westup and Thomas Puckle.</title>
+                  <author>Westup, William.</author>
+                  <author>Puckle, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes against the lower Pumpin Grub-street, and are also to be sold in Ipswich,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650 [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E.615[5]: "Octob. 24th"; on copy E.625[5]: "feb. 26.".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165811:1"/>
+            <p>GENTIL CONGREGATIONS NO TITHE-PAYERS.</p>
+            <p>OR, CERTAIN REASONS WHEREIN Is clearly shewed, what just ground there is for Gentiles conscientiously to make Question of the lawfulness of their paying Tithes AS They were presented unto the Right Wor<g ref="char:EOLhyphen"/>shipful <hi>John Brandilin,</hi> and <hi>Thomas Edgar</hi> Esquires, Justi<g ref="char:EOLhyphen"/>ces of the Peace for the County of <hi>Suffolk,</hi> and Members of the worshipful Committee, then sitting at the <hi>Grey-hound</hi> in IPSWICH,</p>
+            <p>By WILLIAM WESTUP and THOMAS PUCKLE.</p>
+            <q>
+               <bibl>
+                  <hi>Jo. 7.24.</hi>
+               </bibl>
+               <p>Judge not according unto the appearance, but Judge right cous judgement.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PRO. 16.8.</hi>
+               </bibl>
+               <p>Better is a little with righteousness, then great Reve<g ref="char:EOLhyphen"/>nues without right.</p>
+            </q>
+            <p>Printed by <hi>John Clowes</hi> against the lower Pump in <hi>Grub-street,</hi> and are also to be sold in IPSWICH, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:165811:2"/>
+            <pb facs="tcp:165811:2"/>
+            <head>The Epistle to the Reader</head>
+            <p>COurteons Reader whoever thou art, we desire thee for to take notice that these insuing <hi>Reasons</hi> were not intended by us for to be made thus publick, but seeing that Providence hath so ordered it, we are desirous for to give thee this account which was thus; One of our <hi>Congregation</hi> being sent for by order of the Committee then sitting at the Gray-Hound in Ipswich, upon complaint of his not pay<g ref="char:EOLhyphen"/>ing of Tithes, who being come, it pleased some of the committee for to demand of him the reason of his not paying of his Tithes, who re<g ref="char:EOLhyphen"/>turned this answer. <hi>That he could not in Conscience so do;</hi> un<g ref="char:EOLhyphen"/>to the which some of them replyed, that it was not their desire justly for to grieve any tender Conscience, and therefore did desire him that when their Company did meet together, that they would send in writing the Reasons that do make them to scruple the paying of tithes, saying further, that if there should appear just ground for any Consci<g ref="char:EOLhyphen"/>ence to be troubled, it should be far from their practice for to compel them thereunto: the which when we heard, we judged it no less then our duty so to do, and accordingly we so did, and delivered it unto <hi>Mr. Brandlin</hi> the Committee then sitting. If any should inquire how we sped? we answer to their honour, that some of them did la<g ref="char:EOLhyphen"/>bour more then ordinary with the <hi>Priest</hi> for a Reconciliation, and through their much labour they did procure such a Peace, as that both partys were very well satisfied in. And truly we must profess that the respective carriage of the Committee unto us in this our Case of Conscience, was no small incouragment unto us for the making of it thus publick, for truly if it could not have been published without dishonour unto the Committee, it should never have been made pub<g ref="char:EOLhyphen"/>lick by us, for we must needs say with grief of heart, that there is too much of <hi>Chams</hi> Spirit abroad in the world already, and yet we deny not but that some men may have just cause for to complain; and so speak that which they have no pleasure in; <hi>Oppression</hi> (as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> saith) <hi>making wise men mad.</hi> Now unto the second thing namely, to shew the Reasons of our making of them thus publick, which are these. It being known that we had sent in our Reasons unto the Committee, we were much desired by the <hi>Priest</hi> of the Par<g ref="char:EOLhyphen"/>ish
+<pb facs="tcp:165811:3"/>and divers others, for to see the Copy of them, which we having but one (and that something an imperfect one too we were very un<g ref="char:EOLhyphen"/>willing for to part with it, but at length we obtained of the Com<g ref="char:EOLhyphen"/>mittee theoriginal again, which we shewed unto diverse, who when they had read it did much importune us to make it publick, profes<g ref="char:EOLhyphen"/>sing that the greatest Arguments for Tithes were therein answered, and that it would be much for the publick good. Against the which we had many objections in ourselves, which we must needs confess hath hindered the publishing of them a while, and still haa, had not an unexpected occasion required of some of us a longer aboad in Lon<g ref="char:EOLhyphen"/>don them we expected, but now we have yielded our consent unto the publishing of them upon this account. First, That it may appear what just ground there is for men that do make Conscience of any thing, for them to make conscience of paying of Tithes. Secondly, That it may appear that men may be owners of Civil Authority, and yet disowners of the paying of Tithes. Thirdly, That it might be a meanes for to stir up some men (who shall see what just ground there is for to scruple the paying of Tithes) for to be earnest pettion<g ref="char:EOLhyphen"/>ers unto the Parliament of <hi>England,</hi> for the taking them away</p>
+            <p>And thus (Courteous Reader) we have shewen thee our Reasons both of the writing and publishing of them, hoping that thou wile measure our intentions by thy good affections guiaed by sound Rea<g ref="char:EOLhyphen"/>son, which (if so) then thou wilt conclude that they come from men that seeke not their owne honour, but singely &amp; alone thy profit and edifying in every truth of the Ghospcl, In the hope whereof we rest.</p>
+            <closer>
+               <signed>Your Loving friends
+<list>
+                     <item>
+                        <hi>W. W.</hi>
+                     </item>
+                     <item>
+                        <hi>T. P.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:165811:3"/>
+            <head>TO The Right worshipful <hi>John Brand<g ref="char:EOLhyphen"/>lin</hi> and <hi>Thomas Edgar</hi> Esquires, <hi>Justices</hi> of the Peace for the <hi>County</hi> of Suffolke, with the rest of the worshipful Com<g ref="char:EOLhyphen"/>mittees sitting at the <hi>Gray-Hound</hi> in <hi>Ipswich.</hi>
+            </head>
+            <opener>
+               <salute>Right Worshipfull.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N answer to your desires, we have with all respect and humility sent unto you in writing the Reasons why we (being not <hi>Jewes</hi> but <hi>Gentils</hi>) cannot in Conscience pay Tithes, which are as followeth.</p>
+            <p>The first Reason why we Gentils cannot pay Tithes, is because we find that Tithes were appointed of God for the maintenance of the <hi>Levitical</hi> Priest-hood onely under the first Testament: which Priest-hood and Law are both changed. <hi>Heb.</hi> 7.12. <hi>Heb.</hi> 10.5. <hi>Deut.</hi> 14.22. to the end.</p>
+            <p>The Second Reason why we Gentils cannot pay Tithes is, because by paying Tithes now under the Gospel or new Testa<g ref="char:EOLhyphen"/>ment, we maintain the <hi>Types</hi> or shadows when <hi>Christ</hi> (the
+<pb n="2" facs="tcp:165811:4"/>
+               <hi>Truth</hi> &amp; substance hath fully and clearely abolished them. <hi>Heb.</hi> 7.12. <hi>Heb.</hi> 8.4 &amp; 5. <hi>Heb. Chap.</hi> 9. <hi>&amp;</hi> 10. And if it be ob<g ref="char:EOLhyphen"/>jected that we pay them not in reference to a <hi>Levitical</hi> Priest<g ref="char:EOLhyphen"/>hood or <hi>Judicial Law,</hi> we desire to know what the <hi>Priests</hi> of <hi>England</hi> meane, when they call themselves of the <hi>Tribe</hi> of <hi>Levi</hi> in their Pulpits, in their Prayers, and have it written on the walls of the House which they call the <hi>Church,</hi> citing <hi>Mal.</hi> 3.8.9.10. saying, <hi>Will a man rob God? yet ye have robbed me; but ye say, wherein have we robbed thee? In Tithes and Offerings, ye are Cursed with a Curse; for ye have robbed me, even this whole Nation. Bring ye all the Tithes into the Store-house, that there may be meat in my House, and prove me now herewith, if I will not open the windows of Heaven, and powre you out a blessing, that there shall not be roome enough to receive it.</hi> And also press this Scripture in their Sermons, applying the promises to the <hi>Fith-payers</hi> among the <hi>Gentils,</hi> and threatening the Curses to them that disobey though <hi>Gentils,</hi> to whom this law of <hi>Tithes</hi> was never made, neither obedience thereunto expected, These practises do cause us to stand up for the true and cleere abolish<g ref="char:EOLhyphen"/>ing of all <hi>Types</hi> and shadows, and we must not be so wilfully ignorant as to thinke we pay them not in reference to that <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> when that law with the promises and curses is applied, and the Ministery owned by themselves to be the <hi>Tribe</hi> of <hi>Levi.</hi>
+            </p>
+            <p n="3">3. The third Reason why we Gentils cannot pay <hi>Tithes</hi> is, because the Lord <hi>Jesus Christ,</hi> who is the Apostle and high <hi>Priest</hi> of our Profession and Ministery, who was faithful to him that appointed him, <hi>Heb.</hi> 3.1.2. hath now in the days of the Gospel established a new Testament, and sent forth a new Ministery, and appointed a new maintenance, <hi>Luk.</hi> 10.8. which is that which the people shall freely contribute of those outward or Temporal things which God hath given them to the maintenance of the Ministery. If it be objected. How if the People will contribute nothing? We Answer. It signifies to us that the Ministery and Doctrine is much to be questioned whether it be the Ministery and Doctrin of <hi>Christ,</hi> if it works no better effects and fruits, then to contribute nothing. Christ made no question surely but his Doctrin where it was received, would worke out a sufficient maintenance for a Gospel Mini<g ref="char:EOLhyphen"/>ster,
+<pb n="3" facs="tcp:165811:4"/>especially knowing how he had fitted them to be content<g ref="char:EOLhyphen"/>ed with meane Aparrel and Diet, and if the people were poore, and so contributions but small, for the honor of the truth and case of the <hi>Church,</hi> he left them at liberty to worke with their hands that they might eat their own bread, and so not to be chargeable to the <hi>Churches,</hi> but Examples as <hi>Paul</hi> was. <hi>Acts.</hi> 20. to the <hi>Elders</hi> of <hi>Ephesus. ver.</hi> 33.34.35. And al<g ref="char:EOLhyphen"/>though the Apostle did know his liberty, that he might as well as the other Apostles receive maintenance from the <hi>Churches;</hi> yet he tells the <hi>Elders</hi> from the mouth of <hi>Christ,</hi> that it is by them to be remembred, that it is more blessed to give then to receive, and therefore if any man esteemeth himself a Minister of <hi>Christ,</hi> and yet is not contented with such mainte<g ref="char:EOLhyphen"/>mance as the people which receive his Doctrin doth freely con<g ref="char:EOLhyphen"/>tribute, neither can indeavour himself to supply his want with the labour of his hands for the honour of his Master, and the truth, as all the Ministers in the Scripture did; it were to be commended of all such for the honour of the Lord <hi>Jesus Christ</hi> his truth and people, if that they would be pleased to leave that work with the wages thereunto appointed, to such as the Lord himself hath fitted to be contented with them both, and imploy themselves about that that they are better fitted for.</p>
+            <p n="4">4. The fourth Reason why we Gentils cannot pay Tithes is, because we find the <hi>Apostles, Elders</hi> and <hi>Brethren</hi> met toge<g ref="char:EOLhyphen"/>ther at <hi>Jerusalem, Act.</hi> 15. to confider whether the <hi>Gentils</hi> should have <hi>Circumcision,</hi> and the keeping of the <hi>Jewish</hi> law urged upon them, and when much disputation had been in the <hi>Church</hi> about it, <hi>ver.</hi> 6.7. diverse of them giving their sentence, it was at last concluded and agreed, and an <hi>Epistle</hi> was penned by the inspiration of the holy <hi>Ghost</hi> in the name of the <hi>Apostles, Elders</hi> and <hi>Brethren, ver.</hi> 22.28. which is called <hi>Chap.</hi> 16. <hi>ver.</hi> 4. the <hi>Decrees</hi> of the <hi>Apostles</hi> and <hi>Elders</hi> delivered to the Gentil-<hi>Churches,</hi> here no other burden of the <hi>Jewish</hi> law is thought good by the Church at <hi>Jerusalem</hi> to be laid upon the Gentil-<hi>Churches,</hi> but these necessary things, <hi>That they abstain from meats offered to Idols, and from bloud, and from things strang<g ref="char:EOLhyphen"/>led, and from fornication, for which if you keep your selves, you
+<pb n="4" facs="tcp:165811:5"/>shall do well;</hi> which when the Gentil-<hi>Churches</hi> had heard read, they rejoyced for the consolation of that freedome. And now, who sees not cleerely, the law of Tithes hath no place among Gentel-Believers. If it be objected, that <hi>Circumcision</hi> and the keeping of the Law was preached to them of <hi>Antioch</hi> for life and salvation. We answer, it is true it was so, but when the Church at <hi>Jerusalem</hi> had considered it, they did not only take it off the Gentils in that respect, but they laid it not upon the Gentils in any respect at all, neither for Life and Salvation, nor yet as Gospel obedience, but did fully Iudge it unnecessary for Gentils, and if Gentil-Churches do now pay Tithes by vertue of the <hi>Levitical</hi> law of Tithes, how do they keep the Apostles <hi>Decrees</hi> at <hi>Ierusulem,</hi> which once were so full of consolation to them? and how do they put themselves under such things as the holy Spirit and the Apostles &amp; Elders &amp; Brethren Iudged unfit for the Gentils to be yoked with? and how do they likewise transgress against <hi>Christ</hi> by raising up types and shadows when <hi>he</hi> the <hi>Truth</hi> and substance, hath put them down?</p>
+            <p n="5">5. The fifth Reason why we <hi>Gentils</hi> cannot pay <hi>Tithes</hi> as the maiutenance of Gospel Ministersis is, because we find that the <hi>Apostles</hi> when they stired up the <hi>Saints</hi> about the mainance of their <hi>Ministers,</hi> did never make use of the Law of <hi>Tithes,</hi> as if that should be a <hi>Rule</hi> for their main<g ref="char:EOLhyphen"/>tenance, but he useth many arguments to shew the equality that the <hi>Ministers</hi> of the <hi>Gospel</hi> should live of the <hi>Gospel,</hi> as: <hi>who goeth a war-fare at his own charge,</hi> 1. <hi>Cor.</hi> 9.7. And al<g ref="char:EOLhyphen"/>though he goeth not at his owu charge, yet he looketh not for pay of those he wars against. Again, <hi>who planteth a Vinyard, and eateth not of the fruit thereof?</hi> and yet by what just right can any eat of the fruit that he planted not without he buy it, or it be freely given him. Again, <hi>who feedeth a Flock and eateth not of the milk thereof.</hi> And yet by what right can a man eate the milk of the Flock he feedeth not. Again, tis truth, <hi>God comman<g ref="char:EOLhyphen"/>eth that the Ox that treadeth out the Corn should not be muzled, but what is that benefitial to any of those Oxen that did not labour in that work that they should not be muzled?</hi> The Lord teach us ne<g ref="char:EOLhyphen"/>ver to deny any that sow spiritual things to us the reaping of our temporal things, and yet this Scripture doth not maintain that where temporal things, are not freely contributed by the hear<g ref="char:EOLhyphen"/>ers,
+<pb n="5" facs="tcp:165811:5"/>that there the <hi>Ministers</hi> should make use of the Civil <hi>Magi<g ref="char:EOLhyphen"/>strate</hi> to take it by his power out of his goods by force, and yet it hath been thus with us formerly with Damages, and yet through the goodness of God in keeping us by his power, we desire with our Master <hi>Christ</hi> to be as <hi>Sheep</hi>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umb before the sheirer, and not open our mouths in any rayling or reviling manner whensoever it may befal us. Again, i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be objected that it is our own fault that we are not of the Flock and so fed with the rest. We answer it with an appeal to God to judge whe<g ref="char:EOLhyphen"/>ther we have not rather been driven away by being push<g ref="char:EOLhyphen"/>ed with the shoulder, and ruled with rigor, and made to eate the trampled pasture and drink the puddle waters. By that which hath been written we judge it unlawful to believers (being <hi>Gen<g ref="char:EOLhyphen"/>tils</hi> to pay <hi>Tithes</hi> though the ministery of England can be proved the ministery of <hi>Christ,</hi> which we judge to be a hard task. Nei<g ref="char:EOLhyphen"/>ther durst we seperat from them if, this were cleere to us, but now let it be supposed, the ministery of <hi>England</hi> to be the <hi>Ministery</hi> of <hi>Christ,</hi> and paying of <hi>Tithes</hi> to be in it self lawfull and cleere to many godly persons, yet for these following Rea<g ref="char:EOLhyphen"/>sons we could not pay it.</p>
+            <p n="1">1 First because the Scripture exhorteth that every man should be fully perswaded in his own mind of the lawfulness of that he doth. <hi>Rom.</hi> 14.5. which in paying <hi>Tithes</hi> we are not at all perswaded of the lawfulness of. If it be objected that Scri<g ref="char:EOLhyphen"/>pture was not spoken of about paying of Tithes, we Answer Tithes are not mentioned there, neither was any payd then, but its spoken of that, or those things that the Saints then made cases of Couscience to do or not to do, and for such Causes we use it now.</p>
+            <p n="2">2. Secondly were paying of Tithes Lawful in it self as every thing was clean to the Saints of it self. <hi>Rom.</hi> 14.14. yet to him that judgeth it to be unclean or unlawful, to him it is unclean and unlawful. And as it is evil for that man that eateth with offence, <hi>Rom.</hi> 14.20. although it be clear enough to <hi>Paul</hi> and other <hi>Saints,</hi> that all things indeed are pure, so is it as evil for that man that pays Tithes with a Conscience accusing him of sin against God in doing it, although many godly men do see it lawful by the word of God so to do.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:165811:6"/> 3. Thirdly. We cannot pay Tithes, because we have no word of God, nor example out of Scripture for it, that it was ever required of <hi>Gentils,</hi> or payed by them: and therefore be<g ref="char:EOLhyphen"/>ing not required by a word of God, we cannot do it of faith, but doubtingly, and he that payeth and doubteth is as surely damned, as he that eateth and doubteth, for whatsoever is not of faith is sin, <hi>Rom.</hi> 14.23. which in the word, <hi>whatsoever is not of faith,</hi> Tithes or any other thing is comprehended. And if it be objected we ought to be subject to every Ordinance of man for the Lords sake, <hi>Tit.</hi> 3.1. <hi>Rom.</hi> 13.1. We answer, the word <hi>Every,</hi> must be limitted by other Scriptures, for <hi>Christ</hi> saith <hi>we are not somtimes to fear them that can kill the body, Mat.</hi> 10.28. therefore some ordinances of men are not to he obeyed, and the Gentil-Churches having now Decrees ordained by the A<g ref="char:EOLhyphen"/>postles and Elders at <hi>Jerusalem,</hi> being guided by the holy Spirit, that they ought to keep being delivered to them for that pur<g ref="char:EOLhyphen"/>pose, if now the civil Magstrate do command them to do any of those things that the holy Spirit, Apostles Elders and Bre<g ref="char:EOLhyphen"/>thren, judged not necessary, but called it a Yoke to Gentil-Disciples, and a trouble, and a subverting of their souls, and a Burthen, as <hi>Acts</hi> the 15. cleares it; we judge of these two things, its far better to stand to the Decrees of the Apostles, then to the Command of the Magistrate being contrary, for these Reasons</p>
+            <p n="1">1 First, Because the command of the Magistrate makes not any thing lawful that was not lawful before by the word of God.</p>
+            <p n="2">2. Secondly, Because the Magistrate cannot deliver us from the danger that will insue in breaking the Decrees of the Apo<g ref="char:EOLhyphen"/>stles to keep his.</p>
+            <p n="3">3. Thirdly, Because in so doing, we shall maintain for <hi>Doctrin,</hi> the Commands of men, and so be men-pleasers, and not the servants of <hi>Christ,</hi> who hath inlightened us in the truth, and commanded us to suffer rather then to dishonor him.</p>
+            <p>Thus much (being called thereunto by your Worships the Magistrates) we have willingly and humbly represented unto your view, which are the grounds of our not paying <hi>Tithes,</hi> taking the all-seeing God to witness that knows the secrets of
+<pb n="7" facs="tcp:165811:6"/>all hearts, who knows that it is not out of Covetousness to save it to ourselves, nor out of stubborness, nor wilfulness to have our minds; nor envy to the person of him that should have it payd him, but onely and simplly for Conscience to God, which while we have received full satisfaction in; we conceive we cannot with any peace of Conscience yield to the paying of any. Neither (as we humbly conceive) may you till then in Justice require it of us. And thus far we can with Christian boldness war in this Cause, with our spiritual weapon the word of God. But if this satisfie not your worships, but that you shal (as formerly) proceed to take it by your Magisterial power out of our Estates with Dammage, the Lord Christ hath not left us any temporal weapon to resist your power with, nor any rayling accusation to proceed out of our mouthes, forasmuch as we know you to be the Ministers of God, to whom we ought willingly to submit, either to do as you command or suf<g ref="char:EOLhyphen"/>fer as you shall inflict, committing the cause to the Iudge of all, who will if he please, make out a way to ease this burthen of his people as he hath done many other, in whom we desire al<g ref="char:EOLhyphen"/>ways to rest. And ever remain willing and obedient Subjects to the Authority of this Common-wealth in all things, keeping faith and agood Conscience.</p>
+            <closer>
+               <signed>Wil. VVestup.</signed>
+               <signed>Tho. Puckle.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>If by the Civil Laws, they onely pleaded be,</l>
+                  <l>Bishops, and Lithurgy, had as good we see.</l>
+                  <l>Yet being found the Conscience for to grieve,</l>
+                  <l>They were remov'd, and so we hope shall Tithe.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="8" facs="tcp:165811:7"/>
+            <head>POSTSCRIPT.</head>
+            <p>NOW foreseeing that it might probably be objected by some of the Priests, that it doth not become men reasoning in a Case of Con<g ref="char:EOLhyphen"/>science for to use the word Priest; for the answer whereof we add this first, that we were in no one thing more stifled then in this, name<g ref="char:EOLhyphen"/>ly, under what title we should put you; for Ministers of the Lord Iesus Christ, we could not with peace of Conscience call you.</p>
+            <p>Now secondly, had we looked upon it as a rayling Expression, then should we not have dared for to have brought it.</p>
+            <p>Nay thirdly, had we not had warrant out of your own writings, particularly in the Service-book, where it is so often taught, the Priest shall say, and the Priest shall say, and not only in that book, but in the Statute-books of this Nation, where you are mentioned, you are so called.</p>
+            <p>Yea being not long since at a Sessions of Peace, I heard an In<g ref="char:EOLhyphen"/>dictment read against one for that he did suffer himself for to be baptized, although he had formerly been baptized by a lawful Priest.</p>
+            <p>Yet Priest for to offer sacrifices, as where the Sons of <hi>Levi,</hi> we know that you are not, and yet we have often heard this expression in your Pulpits, in your prayers; namely, bless Lord thine own Tribe, the Tribe of <hi>Levi,</hi> which how you came for to be, we wonder at, unless that your taking Tithe as they did prove you so to be.</p>
+            <p>But to be short, we do believe that there is a sense, in the which if that it were applyed unto you in, that then you would not be offended at it: we pray you take it in the best sense that the Scripture will al<g ref="char:EOLhyphen"/>low you for to take it in: we have only shewed you the grounds why we so call you, and rest,</p>
+            <closer>
+               <signed>yours in any service of Love,
+<list>
+                     <item>W. W.</item>
+                     <item>T. P.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
